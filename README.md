@@ -1,5 +1,7 @@
-# Seal World
+# 💙 Seal World 🌎
 DIVE IN AND DISCOVER THE CHARM OF THESE AQUATIC WONDERS
+
+<img src="img/banner.png">
 
 ## 💻 Website creation
 
@@ -7,3 +9,4 @@ This page was created as an HTML and CSS exercise, training some features that I
 
 ## ✅ Acesse o projeto aqui:
 
+https://ericlbarreto.github.io/seal-world/
